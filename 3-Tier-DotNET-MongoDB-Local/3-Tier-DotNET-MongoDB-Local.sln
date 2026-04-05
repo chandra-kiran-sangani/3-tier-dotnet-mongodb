@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3-Tier-DotNET-MongoDB-Local-main", "3-Tier-DotNET-MongoDB-Local-main", "{EEC9ADDF-65A0-B8E7-BD26-98E60201C63F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetMongoCRUDApp", "3-Tier-DotNET-MongoDB-Local-main\DotNetMongoCRUDApp.csproj", "{456A1F20-23F7-A4FA-5159-4E277166FB89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{456A1F20-23F7-A4FA-5159-4E277166FB89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{456A1F20-23F7-A4FA-5159-4E277166FB89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{456A1F20-23F7-A4FA-5159-4E277166FB89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{456A1F20-23F7-A4FA-5159-4E277166FB89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{456A1F20-23F7-A4FA-5159-4E277166FB89} = {EEC9ADDF-65A0-B8E7-BD26-98E60201C63F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6552D172-FA41-4577-BB53-AEE46060F0DF}
+	EndGlobalSection
+EndGlobal
